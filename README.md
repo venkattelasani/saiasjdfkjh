@@ -1,2 +1,2 @@
-# Pythoista
+# Pythonista
 today's classs
